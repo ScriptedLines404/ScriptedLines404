@@ -21,7 +21,7 @@
 
 ## 🚀 Featured Projects
 
-🖼️🔒 **[Image_Steganography_Suite](https://github.com/ScriptedLines404/Image_Steganography_Suite)**  
+🖼️🔒 **[Image Steganography Suite](https://github.com/ScriptedLines404/Image_Steganography_Suite)**  
 A toolkit for hiding encrypted messages in images using LSB techniques, supporting XOR and AES-256 encryption. Preserves image quality while securely concealing data. Ideal for privacy-focused communication and security research.
 
 🏗️  **[Medallion Architecture Data Warehouse](https://github.com/ScriptedLines404/Medallion_Architecture_Data_warehouse)**  
