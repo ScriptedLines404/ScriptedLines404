@@ -39,7 +39,7 @@ A modern data warehousing solution that consolidates and transforms ERP/CRM data
 
 ## 🧑‍💻 Skills & Tech Stack
 
-![skills](https://skillicons.dev/icons?i=html,css,javascript,react,vite,python,mysql,java)
+![skills](https://skillicons.dev/icons?i=html,css,javascript,react,vite,python,mysql,C,java)
 
 ---
 
