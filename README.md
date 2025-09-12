@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td>
-      <img src="" alt="Vladimir Illich Arunan Pic" width="200"/>
+      <img src="Images\02cf0dcb960e17ddc8146e0971c9e07b.jpg" alt="Pic" width="200"/>
     </td>
     <td>
       <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=30&pause=1000&color=7B3FE4&width=435&lines=Mastering+digital+systems;Build.+Hack.+Defend;Tech+by+day.+Cyber+by+night." alt="Vladimir Illich Arunan typing animation"/>
