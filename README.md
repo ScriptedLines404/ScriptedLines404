@@ -21,6 +21,9 @@
 
 ## 🚀 Featured Projects
 
+♻️[**SwachhSathi**](https://github.com/sharvesh1401/SwachhSathi)  
+A civic-tech initiative for cleaner communities.
+
 🖼️🔒 **[Image Steganography Suite](https://github.com/ScriptedLines404/Image_Steganography_Suite)**  
 A toolkit for hiding encrypted messages in images using LSB techniques, supporting XOR and AES-256 encryption. Preserves image quality while securely concealing data. Ideal for privacy-focused communication and security research.
 
