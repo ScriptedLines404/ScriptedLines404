@@ -22,7 +22,7 @@
 ## 🚀 Featured Projects
 
 ♻️[**SwachhSathi**](https://github.com/sharvesh1401/SwachhSathi)  
-A civic-tech initiative for cleaner communities.
+SwachhSathi - Transforming India's urban waste management. A full-stack React web app that tracks waste from generator to processor, eliminating unaccounted waste and fostering a circular economy.
 
 🖼️🔒 **[Image Steganography Suite](https://github.com/ScriptedLines404/Image_Steganography_Suite)**  
 A toolkit for hiding encrypted messages in images using LSB techniques, supporting XOR and AES-256 encryption. Preserves image quality while securely concealing data. Ideal for privacy-focused communication and security research.
