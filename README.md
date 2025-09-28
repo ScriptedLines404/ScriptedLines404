@@ -60,7 +60,7 @@ A modern data warehousing solution that consolidates and transforms ERP/CRM data
 </table>
 
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ScriptedLines404&theme=dark&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ScriptedLines404&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 </p>
 
 ---
