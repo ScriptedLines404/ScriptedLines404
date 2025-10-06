@@ -1,6 +1,5 @@
 # 👋 Vladimir Illich Arunan V V
-[![Follow on LinkedIn](https://img.shields.io/badge/LinkedIn-Vladimir_Illich_Arunan_V_V-blue
-)](https://www.linkedin.com/in/vladimir-illich-arunan/)
+[![Follow on LinkedIn](https://img.shields.io/badge/LinkedIn-Vladimir_Illich_Arunan_V_V-blue)](https://www.linkedin.com/in/vladimir-illich-arunan/){:target="_blank"}
 
 <table>
   <tr>
