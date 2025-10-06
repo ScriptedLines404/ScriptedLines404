@@ -1,5 +1,5 @@
 # 👋 Vladimir Illich Arunan V V
-<a href= "https://www.linkedin.com/in/vladimir-illich-arunan/" target ="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Vladimir_Illich_Arunan_V_V-blue" alt="LinkedIn" /></a>
+<a href= "https://www.linkedin.com/in/vladimir-illich-arunan/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Vladimir_Illich_Arunan_V_V-blue" alt="LinkedIn" /></a>
 
 
 <table>
