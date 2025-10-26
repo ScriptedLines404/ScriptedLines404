@@ -25,7 +25,7 @@
 SwachhSathi - Transforming India's urban waste management. A full-stack React web app that tracks waste from generator to processor, eliminating unaccounted waste and fostering a circular economy.
 
 🖼️🔒 **[Image Steganography Suite](https://github.com/ScriptedLines404/Image_Steganography_Suite)**  
-A toolkit for hiding encrypted messages in images using LSB techniques, supporting XOR and AES-256 encryption. Preserves image quality while securely concealing data. Ideal for privacy-focused communication and security research.
+A secure web-based Image Steganography Suite that hides secret messages inside images using LSB, XOR, and AES encryption while preserving image quality. Built with Flask (Python backend) and React (frontend), supporting modern encryption and image processing via OpenCV and PyCryptodome.
 
 🏗️  **[Medallion Architecture Data Warehouse](https://github.com/ScriptedLines404/Medallion_Architecture_Data_warehouse)**  
 A modern data warehousing solution that consolidates and transforms ERP/CRM data into an analytics-ready format using medallion architecture. Implements data cleansing, integration, and modeling for actionable business insights. Includes comprehensive documentation for stakeholders and analytics teams.
