@@ -21,16 +21,19 @@
 
 ## 🚀 Featured Projects
 
+🌐 [**Network Intrusion Detection System (NIDS) Using Deep Learning**](https://github.com/ScriptedLines404/Network-Intrusion-Detection-System-using-Deep-Learning)<br>
+This project implements a modern Network Intrusion Detection System (NIDS) using deep learning and machine learning to identify cybersecurity threats. It replaces traditional rule‑based methods with an intelligent pipeline that includes PCA‑based feature reduction, autoencoder anomaly detection, and classifiers like XGBoost.Built on a cleaned version of the CICIDS2017 dataset, the system is designed for real‑world use—offering a complete workflow from data preprocessing and model training to ready‑to‑deploy detection. Pre‑trained models are included, making it accessible for education, research, and practical intrusion detection applications.
+
+🖼️🔒 [**Image Steganography Suite**](https://github.com/ScriptedLines404/Image_Steganography_Suite)<br>
+A secure web-based Image Steganography Suite that hides secret messages inside images using LSB, XOR, and AES encryption while preserving image quality. Built with Flask (Python backend) and React (frontend), supporting modern encryption and image processing via OpenCV and PyCryptodome.
+
+🛰️ [**Inverse Design of Patch Antenna using Deep Learning**](https://github.com/ScriptedLines404/Inverse-design-of-patch-antenna-using-Deep-Learning)<br>
+Physics-constrained deep learning framework for real-time inverse design of patch antennas. Achieves sub-millimeter accuracy and 20x faster predictions than traditional EM simulations. Includes beginner-friendly Google Colab demo.
+
 ♻️[**SwachhSathi**](https://github.com/sharvesh1401/SwachhSathi)  
 SwachhSathi - Transforming India's urban waste management. A full-stack React web app that tracks waste from generator to processor, eliminating unaccounted waste and fostering a circular economy.
 
-🖼️🔒 **[Image Steganography Suite](https://github.com/ScriptedLines404/Image_Steganography_Suite)**  
-A secure web-based Image Steganography Suite that hides secret messages inside images using LSB, XOR, and AES encryption while preserving image quality. Built with Flask (Python backend) and React (frontend), supporting modern encryption and image processing via OpenCV and PyCryptodome.
-
-🛰️ **[Inverse Design of Patch Antenna using Deep Learning](https://github.com/ScriptedLines404/Inverse-design-of-patch-antenna-using-Deep-Learning)** <br>
-Physics-constrained deep learning framework for real-time inverse design of patch antennas. Achieves sub-millimeter accuracy and 20x faster predictions than traditional EM simulations. Includes beginner-friendly Google Colab demo.
-
-🏗️  **[Medallion Architecture Data Warehouse](https://github.com/ScriptedLines404/Medallion_Architecture_Data_warehouse)**  
+🏗️  [**Medallion Architecture Data Warehouse**](https://github.com/ScriptedLines404/Medallion_Architecture_Data_warehouse)<br>
 A modern data warehousing solution that consolidates and transforms ERP/CRM data into an analytics-ready format using medallion architecture. Implements data cleansing, integration, and modeling for actionable business insights. Includes comprehensive documentation for stakeholders and analytics teams.
 
 ---
