@@ -21,7 +21,7 @@
 
 ## 🚀 Featured Projects
 
-☁️💻[**SecureCloud - Zero-Knowledge File Encryptor for Cloud Storage**](https://github.com/ScriptedLines404/SecureCloud)<br>
+☁️💻[**SecureCloud - Zero-Knowledge Cloud Storage System with OPAQUE Authentication, Hierarchical Key Isolation, Secure Sharing, and Formalised Tri-Layer Trust Boundaries**](https://github.com/ScriptedLines404/SecureCloud)<br>
 SecureCloud acts as an intermediate layer between the user and the cloud storage provider, enabling users to encrypt their files before they ever reach the cloud provider. It is a zero-knowledge, end-to-end encrypted file encryptor that ensures your data remains protected even if the cloud storage provider is compromised. Unlike traditional encrypted storage solutions, SecureCloud is designed for seamless collaboration without sacrificing security. Recipients do not need to install any software, create an account, or log into the application to view shared files. All encryption and decryption happen transparently in the browser using standard Web Crypto APIs.
 
 🌐 [**Network Intrusion Detection System (NIDS) Using Deep Learning**](https://github.com/ScriptedLines404/Network-Intrusion-Detection-System-using-Deep-Learning)<br>
