@@ -21,6 +21,9 @@
 
 ## 🚀 Featured Projects
 
+☁️💻[**SecureCloud - Zero-Knowledge File Encryptor for Cloud Storage**](https://github.com/ScriptedLines404/SecureCloud)<br>
+SecureCloud acts as an intermediate layer between the user and the cloud storage provider, enabling users to encrypt their files before they ever reach the cloud provider. It is a zero-knowledge, end-to-end encrypted file encryptor that ensures your data remains protected even if the cloud storage provider is compromised. Unlike traditional encrypted storage solutions, SecureCloud is designed for seamless collaboration without sacrificing security. Recipients do not need to install any software, create an account, or log into the application to view shared files. All encryption and decryption happen transparently in the browser using standard Web Crypto APIs.
+
 🌐 [**Network Intrusion Detection System (NIDS) Using Deep Learning**](https://github.com/ScriptedLines404/Network-Intrusion-Detection-System-using-Deep-Learning)<br>
 This project implements a modern Network Intrusion Detection System (NIDS) using deep learning and machine learning to identify cybersecurity threats. It replaces traditional rule‑based methods with an intelligent pipeline that includes PCA‑based feature reduction, autoencoder anomaly detection, and classifiers like XGBoost.Built on a cleaned version of the CICIDS2017 dataset, the system is designed for real‑world use—offering a complete workflow from data preprocessing and model training to ready‑to‑deploy detection. Pre‑trained models are included, making it accessible for education, research, and practical intrusion detection applications.
 
